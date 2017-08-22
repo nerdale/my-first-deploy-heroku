@@ -1,0 +1,22 @@
+{
+  "name": "my-first-deploy",
+  "version": "1.0.0",
+  "description": "prueba heroku",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandra",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-watch": "^4.3.11"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "jquery": "^3.2.1",
+    "materialize": "^1.0.0",
+    "materialize-css": "^0.100.1"
+  }
+}
